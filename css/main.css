@@ -1,0 +1,56 @@
+html {
+    margin-top: 0px;
+}
+
+body {
+    background-color: #ebf0f5;
+    text-align: center;
+}
+
+section {
+    padding-top: 20px;
+    padding-bottom: 36px;
+}
+section h1 {
+    margin-bottom: 0px;
+
+}
+
+
+#contact {
+}
+#contact p {
+    margin-bottom: 0px;
+}
+
+
+#education {
+    background-color: white;
+}
+#education p {
+    margin-bottom: 0px;
+}
+
+
+#projects {
+}
+#projects p {
+    text-align: left;
+}
+
+
+#skills {
+    background-color: white;
+}
+#skills h4 {
+    text-align: left;
+}
+#skills p {
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+
+#footer {
+    font-size: .8em;
+}
